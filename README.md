@@ -52,3 +52,20 @@ The project uses a structured data model containing fact, dimension and bridge t
 ## Disclaimer
 
 This project is intended for educational and portfolio demonstration purposes. Any simulated or anonymized employee information should not be interpreted as actual company HR data.
+
+
+---
+
+## Dashboard Preview
+
+### Screenshot 1
+![HR Dashboard Screenshot 1](Screenshot%202026-11-03%20141952.png)
+
+### Screenshot 2
+![HR Dashboard Screenshot 2](Screenshot%202026-11-03%20142016.png)
+
+### Screenshot 3
+![HR Dashboard Screenshot 3](Screenshot%202026-11-03%20142055.png)
+
+### Screenshot 4
+![HR Dashboard Screenshot 4](Screenshot%202026-11-03%20142117.png)
